@@ -1,0 +1,9 @@
+"Representational State Transfer" is a fancy name for a way of sending information over the internet. When you use a computer or a phone to browse the internet, you are sending requests to web servers, which respond with information that you can see in your web browser. This information is usually in the form of text, images, videos, and other types of data.
+
+The person who came up with the name "Representational State Transfer" is Roy Fielding, who was one of the people who helped create the World Wide Web. He came up with the name because he wanted to describe how web servers and web browsers communicate with each other.
+
+In simple terms, when you make a request to a web server, you are asking for some information about a resource, like a webpage or an image. The server then sends back a response that represents the current state of that resource, which can include things like the content of the webpage or the properties of the image.
+
+The "representational" part of the name refers to the fact that the response represents the state of the resource. The "state" part of the name refers to the fact that the response represents the current state of the resource, which can change over time.
+
+So, in short, "Representational State Transfer" is a fancy name for how web servers and web browsers communicate with each other to send information back and forth over the internet.
